@@ -6,3 +6,7 @@
 Статистический анализ данных(тарифы оператора сотовой связи)](https://github.com/druzyk/DS_projects/blob/master/3_mobile_telecom_analysis.ipynb)
 4. [Анализ данных:
 Исследование рынка компьютерных игр](https://github.com/druzyk/DS_projects/blob/master/4_video_games_analysis.ipynb)
+---
+5. [Введение в ML: Рекомендация тарифов](https://github.com/druzyk/DS_projects/blob/master/5_telecom_tarif_recomend.ipynb)
+6. [Введение в ML: Отток клиентов](https://github.com/druzyk/DS_projects/blob/master/6_bank_clients_leaving.ipynb)
+---
