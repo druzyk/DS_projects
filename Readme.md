@@ -9,4 +9,9 @@
 ---
 5. [Введение в ML: Рекомендация тарифов](https://github.com/druzyk/DS_projects/blob/master/5_telecom_tarif_recomend.ipynb)
 6. [Введение в ML: Отток клиентов](https://github.com/druzyk/DS_projects/blob/master/6_bank_clients_leaving.ipynb)
----
+7. [Bootstrap: Выбор нефтяных скважин](https://github.com/druzyk/DS_projects/blob/master/7_bootstrap.ipynb)
+8. [Многоцелевая регрессия: Концентрация золота при обогащении](https://github.com/druzyk/DS_projects/blob/master/8_Predicted_gold_concentration.ipynb)
+9. [Линейная алгебра: Трансформация пространства признаков](https://github.com/druzyk/DS_projects/blob/master/9_linear%20transformation.ipynb)
+10. [Градиентный бустинг: Стоимость автомобилей на платформе](https://github.com/druzyk/DS_projects/blob/master/10_predicting_car_market_value.ipynb)
+11. [NLP: Тональность комментариев](https://github.com/druzyk/DS_projects/blob/master/11_NLP_sentiment_of_comments_on_Twitter.ipynb)
+--
